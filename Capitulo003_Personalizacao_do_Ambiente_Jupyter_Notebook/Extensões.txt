@@ -1,0 +1,130 @@
+Descrição das extensões (resumo, em português)
+addbefore/main: Essa extensão permite adicionar uma célula antes da célula atual no Jupyter Notebook. Ela adiciona um botão à barra de ferramentas que facilita a adição rápida de células em qualquer posição desejada.
+
+autoscroll/main: Essa extensão permite que a página do Jupyter Notebook seja automaticamente rolada para a última célula sempre que uma nova célula for adicionada. Isso é útil para acompanhar a execução e visualização contínua do código.
+
+autosavetime/main: Essa extensão adiciona um recurso de salvamento automático ao Jupyter Notebook. Ela salva automaticamente o notebook em intervalos regulares para evitar a perda de trabalho em caso de falha ou encerramento inesperado.
+
+cell_filter/cell_filter: Essa extensão permite filtrar células com base em suas tags. Ela adiciona uma barra de filtro na barra de ferramentas que permite selecionar tags específicas e exibir apenas as células marcadas com essas tags.
+
+code_font_size/code_font_size: Essa extensão permite ajustar o tamanho da fonte do código no Jupyter Notebook. Ela adiciona opções de aumento e redução de tamanho da fonte do código para melhorar a legibilidade.
+
+code_prettify/2to3: Essa extensão ajuda a converter o código Python 2 para Python 3 no Jupyter Notebook. Ela fornece um botão na barra de ferramentas que executa automaticamente a conversão de código Python 2 para Python 3.
+
+code_prettify/autopep8: Essa extensão ajuda a formatar automaticamente o código Python no Jupyter Notebook de acordo com as diretrizes do estilo de codificação PEP 8. Ela faz uso da biblioteca autopep8 para realizar a formatação automática do código.
+
+code_prettify/code_prettify: Essa extensão oferece recursos de formatação de código para várias linguagens de programação no Jupyter Notebook. Ela permite que você formate automaticamente o código para melhorar sua legibilidade e estilo.
+
+code_prettify/isort: Essa extensão ajuda a organizar automaticamente as importações de módulos Python no Jupyter Notebook. Ela utiliza a biblioteca isort para ordenar as importações de acordo com as convenções de estilo.
+
+codefolding/edit: Essa extensão adiciona suporte para dobrar e desdobrar seções de código no modo de edição do Jupyter Notebook. Ela permite que você oculte partes do código para facilitar a navegação e focar nas seções relevantes durante a edição.
+
+codefolding/main: Essa extensão oferece recursos de dobramento de código no Jupyter Notebook. Ela permite que você dobre e desdobre seções de código para ocultar partes menos relevantes e simplificar a visualização do notebook.
+
+codemirror_mode_extensions/main: Essa extensão adiciona extensões de modo de exibição de código para o editor de código do Jupyter Notebook, permitindo suporte para uma variedade de linguagens de programação adicionais.
+
+collapsible_headings/main: Essa extensão permite que você colapse e expanda as seções de cabeçalho no Jupyter Notebook. Ela adiciona botões de colapso aos cabeçalhos Markdown, o que facilita a visualização e navegação em notebooks longos e complexos.
+
+comment-uncomment/main: Essa extensão fornece recursos para comentar e descomentar blocos de código no Jupyter Notebook. Ela adiciona opções na barra de ferramentas que permitem adicionar e remover facilmente comentários de várias linhas de código.
+
+contrib_nbextensions_help_item/main: Essa extensão adiciona uma opção ao menu "Ajuda" do Jupyter Notebook para exibir informações sobre as extensões contribuídas disponíveis. Ela fornece uma breve descrição e links úteis para as extensões instaladas.
+
+datestamper/main: Essa extensão permite adicionar automaticamente carimbos de data e hora às células do Jupyter Notebook quando são executadas. Isso é útil para rastrear quando um determinado código foi executado pela última vez.
+
+equation-numbering/main: Essa extensão é responsável pela numeração das equações em células Markdown. No caso da configuração especificada como false, a numeração das equações será desabilitada.
+
+execute_time/ExecuteTime: Essa extensão exibe o tempo de execução de cada célula do Jupyter Notebook após a sua execução. Ela adiciona informações de tempo abaixo de cada célula executada para ajudar no monitoramento e otimização do desempenho.
+
+exercise/main e exercise2/main: Essas extensões permitem criar células de exercício no Jupyter Notebook. Elas fornecem recursos para marcar e validar as respostas do aluno, permitindo criar conteúdo interativo de aprendizado.
+
+export_embedded/main: Essa extensão permite exportar o conteúdo incorporado (como imagens ou vídeos) em um notebook ao exportá-lo em um formato diferente, como HTML ou PDF.
+
+freeze/main: Essa extensão permite congelar a execução de todas as células em um Jupyter Notebook. Ela impede a execução acidental de células e é útil quando você deseja compartilhar um notebook sem permitir modificações.
+
+gist_it/main: Essa extensão permite enviar o conteúdo de um Jupyter Notebook para o serviço Gist do GitHub. Ela facilita o compartilhamento rápido de notebooks como Gists, que são uma forma conveniente de compartilhar código.
+
+go_to_current_running_cell/main: Essa extensão adiciona um botão na barra de ferramentas que permite navegar rapidamente para a célula atualmente em execução. É útil quando você está executando um notebook longo e deseja acompanhar a execução.
+
+help_panel/help_panel: Essa extensão exibe um painel de ajuda no Jupyter Notebook. Ele fornece informações úteis, como atalhos de teclado, documentação e recursos adicionais, para auxiliar na utilização do Jupyter Notebook.
+
+highlight_selected_word/main: Essa extensão realça todas as ocorrências de uma palavra selecionada em células de código no Jupyter Notebook. Isso ajuda a visualizar rapidamente onde uma variável ou termo específico é usado em um notebook.
+
+highlighter/highlighter: Essa extensão adiciona uma ferramenta de realce ao Jupyter Notebook. Ela permite selecionar um trecho de código e realçar partes específicas para enfatizar ou destacar durante a apresentação ou explicação do código.
+
+jupyter-js-widgets/extension: Essa extensão habilita o suporte a widgets interativos no Jupyter Notebook. Ela permite a criação e interação com elementos de interface gráfica, como botões, caixas de seleção e gráficos, diretamente no notebook.
+
+jupyterlab-plotly/extension: Essa extensão permite a integração do Plotly, uma biblioteca de visualização de dados interativa, no Jupyter Lab. Ela oferece recursos avançados de visualização e interatividade para gráficos.
+
+keyboard_shortcut_editor/main: Essa extensão permite editar os atalhos de teclado do Jupyter Notebook. Ela fornece uma interface para personalizar os atalhos existentes e adicionar novos atalhos de acordo com suas preferências.
+
+load_tex_macros/main: Essa extensão permite carregar arquivos contendo macros LaTeX no Jupyter Notebook. Ela é útil quando você está trabalhando com fórmulas matemáticas complexas e deseja usar macros LaTeX predefinidas.
+
+livemdpreview/livemdpreview: Essa extensão fornece uma visualização ao vivo do conteúdo Markdown em um Jupyter Notebook. Ela atualiza a visualização Markdown conforme você digita, facilitando a formatação e visualização em tempo real.
+
+limit_output/main: Essa extensão permite definir limites para a quantidade de saída exibida em células de código. Ela é útil para evitar a exibição de grandes quantidades de saída e manter o notebook mais limpo e organizado.
+
+move_selected_cells/main: Essa extensão adiciona opções na barra de ferramentas para mover células selecionadas para cima ou para baixo no notebook. Isso facilita a reorganização rápida das células durante a edição.
+
+nbTranslate/main: Essa extensão adiciona recursos de tradução ao Jupyter Notebook. Ela permite traduzir o conteúdo de células Markdown e código para diferentes idiomas diretamente no notebook.
+
+nbextensions_configurator/config_menu/main: Essa extensão adiciona um menu de configuração no Jupyter Notebook, permitindo que você habilite e desabilite facilmente extensões específicas e acesse as opções de configuração de extensões instaladas.
+
+nbextensions_configurator/tree_tab/main: Essa extensão adiciona uma guia de configuração na visualização de árvore do Jupyter Notebook. Ela permite que você acesse as opções de configuração das extensões instaladas diretamente na visualização de árvore.
+
+navigation-hotkeys/main: Essa extensão adiciona atalhos de teclado adicionais para navegar e interagir com o Jupyter Notebook. Ela fornece atalhos para facilitar a navegação entre células, rolagem e outras ações comuns.
+
+notify/notify: Essa extensão exibe notificações no navegador quando uma célula do Jupyter Notebook é executada. Isso é útil para receber feedback visual durante a execução de células demoradas ou quando você deseja ser notificado sobre a conclusão de uma execução.
+
+printview/main: Essa extensão permite criar uma visualização em formato de impressão do Jupyter Notebook. Ela remove elementos desnecessários e formata o notebook para melhor legibilidade ao imprimir ou gerar um arquivo PDF.
+
+python-markdown/main: Essa extensão adiciona recursos de formatação avançada do Markdown no Jupyter Notebook. Ela permite a inclusão de elementos interativos, como botões e checkboxes, e estende a sintaxe Markdown para adicionar recursos adicionais.
+
+qtconsole/qtconsole: Essa extensão permite abrir um console interativo do IPython QtConsole dentro do Jupyter Notebook. Ela oferece uma experiência de console mais avançada e recursos adicionais, como realce de sintaxe e histórico de comandos.
+
+rise/main: Essa extensão permite criar apresentações interativas de slides a partir de um Jupyter Notebook. Ela transforma o notebook em uma apresentação de slides com recursos de transição, animação e interatividade.
+
+rubberband/main: Essa extensão permite selecionar células do Jupyter Notebook arrastando o mouse em uma área retangular. Ela facilita a seleção de várias células ao mesmo tempo e é útil para realizar ações em lote, como exclusão ou movimentação.
+
+runtools/main: Essa extensão adiciona opções de execução avançadas ao Jupyter Notebook. Ela permite configurar o ambiente de execução, alterar a ordem de execução das células e oferece recursos adicionais para controlar o processo de execução.
+
+ruler/edit e ruler/main: Essas extensões adicionam uma régua horizontal na área de edição e na área de visualização do Jupyter Notebook, respectivamente. A régua ajuda a alinhar o código e controlar a largura das linhas.
+
+scroll_down/main: Essa extensão adiciona um botão na barra de ferramentas do Jupyter Notebook que permite rolar a página até a parte inferior do notebook com um único clique.
+
+scratchpad/main: Essa extensão adiciona uma célula especial chamada "scratchpad" ao Jupyter Notebook. A célula scratchpad é uma área de trabalho temporária onde você pode executar código rapidamente sem afetar o restante do notebook.
+
+select_keymap/main: Essa extensão permite selecionar diferentes conjuntos de atalhos de teclado (keymaps) no Jupyter Notebook. Ela fornece opções para alterar os atalhos de teclado padrão e personalizá-los de acordo com sua preferência.
+
+skill/main: Essa extensão adiciona um painel de habilidades ao Jupyter Notebook. Ela permite que você defina habilidades e visualize seu progresso em relação a essas habilidades ao trabalhar com o notebook.
+
+skip-traceback/main: Essa extensão permite ocultar automaticamente os traceback (rastreios de pilha) quando ocorrem erros durante a execução do código no Jupyter Notebook. Ela simplifica a visualização do resultado sem a exibição detalhada dos erros.
+
+snippets/main: Essa extensão fornece um mecanismo para criar e usar snippets de código reutilizáveis no Jupyter Notebook. Ela permite que você defina trechos de código que podem ser inseridos rapidamente usando atalhos de teclado ou um menu de seleção.
+
+snippets_menu/main: Essa extensão adiciona um menu de snippets ao Jupyter Notebook. Ela exibe uma lista de snippets disponíveis que podem ser inseridos rapidamente no notebook, facilitando o acesso e uso de trechos de código pré-definidos.
+
+spellchecker/main: Essa extensão adiciona um verificador ortográfico ao Jupyter Notebook. Ela verifica a ortografia em células de texto e destaca palavras mal escritas, ajudando a identificar erros ortográficos durante a edição.
+
+splitcell/splitcell: Essa extensão adiciona a funcionalidade de dividir células do Jupyter Notebook em duas células separadas. Ela permite dividir uma célula existente em um ponto específico, dividindo o conteúdo em duas células separadas.
+
+table_beautifier/main: Essa extensão permite formatar automaticamente tabelas em células Markdown do Jupyter Notebook. Ela analisa a sintaxe das tabelas e aplica uma formatação consistente para melhorar a legibilidade e a aparência visual das tabelas.
+
+toc2/main: Essa extensão gera automaticamente uma tabela de conteúdos (TOC) interativa para o Jupyter Notebook. Ela cria uma lista de links para as seções e subseções do notebook, permitindo uma navegação rápida e fácil.
+
+toggle_all_line_numbers/main: Essa extensão adiciona uma opção para alternar a exibição de números de linha em todas as células do Jupyter Notebook. Ela permite ativar ou desativar a exibição dos números de linha para facilitar a leitura e a navegação no notebook.
+
+tree-filter/index: Essa extensão adiciona um recurso de filtro à visualização de árvore do Jupyter Notebook. Ela permite filtrar os notebooks e arquivos exibidos com base em palavras-chave ou padrões específicos, facilitando a localização de notebooks específicos.
+
+varInspector/main: Essa extensão exibe informações detalhadas sobre as variáveis do Python em tempo de execução no Jupyter Notebook. Ela permite inspecionar o conteúdo e as propriedades das variáveis durante a execução do código.
+
+zenmode/main: Essa extensão fornece uma experiência de escrita minimalista no Jupyter Notebook, removendo elementos distrativos da interface e permitindo que você se concentre apenas no conteúdo e na edição do notebook.
+
+O menu mencionado é o menu de extensões do Jupyter Notebook, que é adicionado pela extensão "nbextensions_configurator/config_menu/main". Esse menu fornece uma interface gráfica para habilitar e desabilitar extensões específicas instaladas no Jupyter Notebook. As extensões específicas mencionadas nesse menu são as seguintes:
+
+jupyter-js-widgets/extension: Essa extensão é responsável por adicionar suporte a widgets interativos no Jupyter Notebook. Ela permite criar e interagir com elementos de interface gráfica, como botões, caixas de seleção e gráficos, diretamente no notebook.
+
+jupyterlab-plotly/extension: Essa extensão permite a integração do Plotly, uma biblioteca de visualização de dados interativa, no Jupyter Lab. Ela oferece recursos avançados de visualização e interatividade para gráficos.
+
+nbextensions_configurator/config_menu/main: Essa extensão adiciona o menu de configuração de extensões ao Jupyter Notebook. Ele permite habilitar e desabilitar facilmente as extensões instaladas e acessar suas opções de configuração.
+
+rise/main: Essa extensão permite criar apresentações interativas de slides a partir de um Jupyter Notebook. Ela transforma o notebook em uma apresentação de slides com recursos de transição, animação e interatividade.

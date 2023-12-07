@@ -1,0 +1,36 @@
+[
+    {
+        "Professor": "Allan",
+        "\u00c1rea": "Matem\u00e1tica",
+        "Ano": 2023,
+        "Turmas": 3,
+        "Mat\u00e9rias": [
+            "Matem\u00e1tica Aplicada",
+            "Matem\u00e1tica Discreta I",
+            "Matem\u00e1tica Discreta II"
+        ],
+        "Idade": 39
+    },
+    {
+        "Professor": "Lara",
+        "\u00c1rea": "Ci\u00eancia da Computa\u00e7\u00e3o",
+        "Ano": 2023,
+        "Turmas": 2,
+        "Mat\u00e9rias": [
+            "Introdu\u00e7\u00e3o \u00e0 Programa\u00e7\u00e3o",
+            "Algoritmos"
+        ],
+        "Idade": 21
+    },
+    {
+        "Professor": "Daniela",
+        "\u00c1rea": "Psicologia",
+        "Ano": 2021,
+        "Turmas": 2,
+        "Mat\u00e9rias": [
+            "Introdu\u00e7\u00e3o \u00e0 Psicologia",
+            "Neuroanatomia"
+        ],
+        "Idade": 30
+    }
+]
